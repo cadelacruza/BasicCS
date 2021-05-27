@@ -1,2 +1,2 @@
 # algos
-Source code of different algorithmic and data structures challenges solved in JavaScript.
+Source code of different porgramming challenges, mainly from codewars.
